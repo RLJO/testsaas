@@ -1,0 +1,4 @@
+[submodule "it-projects-llc/saas-addons"]
+	path = it-projects-llc/saas-addons
+	url = git@github.com:it-projects-llc/saas-addons.git
+	branch = 15.0
